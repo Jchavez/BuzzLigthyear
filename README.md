@@ -10,3 +10,11 @@
 
 * Install StrongLoop
   - `npm install -g strongloop`
+
+# Create APP
+* `slc loopback`
+
+# Create Data Source
+* `slc loopback:datasource`
+* Install the corresponding connector
+    -`npm install --save loopback-connector-mysql`
