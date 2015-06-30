@@ -23,3 +23,6 @@
 
 # Create Model
 * `slc loopback:model`
+
+# Run the application
+* `node .`
